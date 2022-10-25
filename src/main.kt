@@ -1,3 +1,3 @@
 fun main() {
-    testaAutenticacao()
+    print("teste")
 }
